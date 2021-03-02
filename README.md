@@ -1,11 +1,9 @@
-<style>
-  img{
-    width:50px;
-  }
-</style>
 ### Hi there 👋
 
 # *Programming Languages I know*
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="50px">
+</div>
 ![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png)
 <!--
 **Awesomered989/Awesomered989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
