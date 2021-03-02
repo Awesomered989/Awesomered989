@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # *Programming Languages I know*
-![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png)
+![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png =50x50)![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png =50x50)
 <!--
 **Awesomered989/Awesomered989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
