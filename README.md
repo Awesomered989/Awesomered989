@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# *Programming Languages I know*
+![python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)
 <!--
 **Awesomered989/Awesomered989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
